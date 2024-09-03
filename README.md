@@ -33,7 +33,7 @@ The goal of this project was to develop a robust detection model for identifying
 
 ## Model
 
-- **Model Used:** [YOLOv8x](https://ultralytics.com/yolov8) by Ultralytics
+- **Model Used:** YOLOv8x by [Ultralytics](https://www.ultralytics.com/).
 - **Pretrained Model:** The `yolov8x.pt` pretrained model was fine-tuned for 25 epochs on the dataset.
 - **Hardware Requirement:** A GPU is essential for training the model efficiently due to the computational complexity involved in fine-tuning.
 
