@@ -20,7 +20,6 @@ The goal of this project was to develop a robust detection model for identifying
   - **Auto-Orient:** Applied to standardize the orientation of images.
   - **Resize:** Fit images within 640x640 pixels using reflect edges.
   - **Augmentations:**
-    - **Outputs per Training Example:** 3
     - **Brightness:** Adjusted between -19% and +19%
     - **Blur:** Applied up to 2.5px
     - **Bounding Box Augmentations:**
