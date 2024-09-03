@@ -44,6 +44,13 @@ The goal of this project was to develop a robust detection model for identifying
 - **mAP@50:** 0.8981
 - **mAP@50-95:** 0.6212
 
+### Sample Detection Result
+
+Below is a sample detection result showcasing the detection of the four parts:
+
+![sample result](https://github.com/user-attachments/assets/56751f8f-439e-4bbb-81ca-324592f4bd49)
+
+
 ## Conclusion
 
 This project successfully demonstrates the ability to detect and classify parts of a lathe machine using the YOLOv8x model. The results indicate high precision and recall, making the model suitable for deployment in similar workshop environments.
